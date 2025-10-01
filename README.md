@@ -2,7 +2,7 @@
 
 # 🌊 Internship Projects  
 
-This repository contains the tasks completed during my **Infobyte Ocean Internship**.  
+This repository contains the tasks completed during my **OASIS INFOBYTE Internship**.  
 Each project focuses on real-world datasets and practical applications of **Data Analysis, Machine Learning, and Visualization**.  
 
 ---
